@@ -70,7 +70,8 @@ You are encourage to work in groups for the final project (although you're welco
 ### Presentation - 10%
 - A minimum of 5min per group member, minimum of 10min for each project.
 - **EVERY** group member should participate in presenting, speaking on what they worked on/contributed to the project.
-- Also included, a short demo of your app and how it works!
+- Also included, a short demo of your app and how it works.
+- Lastly, there will be a short Q&A section at the end to answer any questions from the class/audience.
 
 ---
 ## Proposal Outline (Submit On Blackboard!)
